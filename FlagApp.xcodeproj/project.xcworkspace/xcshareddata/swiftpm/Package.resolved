@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Atlas",
+        "repositoryURL": "https://github.com/emanuelschmoczer/Atlas.git",
+        "state": {
+          "branch": null,
+          "revision": "fb37f086f1fac757ba34fe317a5cb2e05feecade",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
